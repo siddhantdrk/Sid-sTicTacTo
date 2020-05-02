@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlayTicTacTo</string>
+    <string name="sid">Lets Play Tic Tac To</string>
+    <string name="grid">main grid</string>
+    <string name="o">zero</string>
+    <string name="tap">X\'s turn : tap to paly</string>
+    <string name="sid1">Lets Play Chinu</string>
+</resources>
